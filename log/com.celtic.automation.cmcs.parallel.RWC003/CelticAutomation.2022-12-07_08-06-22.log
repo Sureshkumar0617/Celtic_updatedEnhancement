@@ -1,0 +1,140 @@
+[INFO ] 2022-12-07 20:07:01.486 [main] RWC003 - ****************************** Login to the application  *****************************************
+[INFO ] 2022-12-07 20:07:02.003 [main] RWC003 - *** Enter Username ***
+[INFO ] 2022-12-07 20:07:02.489 [main] RWC003 - *** Enter Password ***
+[INFO ] 2022-12-07 20:07:05.032 [main] RWC003 - *** Click Login ***
+[INFO ] 2022-12-07 20:08:07.659 [main] RWC003 - *** Click IRP ***
+[INFO ] 2022-12-07 20:08:09.472 [main] RWC003 - *** Click RenewFleet ***
+[INFO ] 2022-12-07 20:08:10.279 [main] RWC003 - *** Enter Account Number ***
+[INFO ] 2022-12-07 20:08:10.772 [main] RWC003 - *** Enter FleetNo ***
+[INFO ] 2022-12-07 20:08:11.197 [main] RWC003 - *** Click FleetYear ***
+[INFO ] 2022-12-07 20:08:16.110 [main] RWC003 - [IRPFLT143 : [W] Fleet information [USDOT No., TPID] in the system does not match with the MCE information.]
+[INFO ] 2022-12-07 20:08:28.041 [main] RWC003 - *** Check Email Notification ***
+[INFO ] 2022-12-07 20:08:29.478 [main] RWC003 - *** Enter Comments ***
+[INFO ] 2022-12-07 20:09:11.925 [main] RWC003 - [GEN1292 : [I] USDOT No. has been updated based on the MCE information., GEN1292 : [I] TPID has been updated based on the MCE information., IRPFLT129 : [I] Account has 0 power unit fleet(s) for 2023. Account has 1 power unit fleet(s) for 2022., IRPACC00 : [I] Renewal account has been generated.]
+[INFO ] 2022-12-07 20:09:12.077 [main] RWC003 - Message in Fleet Screen IRPACC00 : [I] Renewal account has been generated.
+[INFO ] 2022-12-07 20:09:12.410 [main] RWC003 - *** navigateToServiceProvider ***
+[INFO ] 2022-12-07 20:09:12.810 [main] RWC003 - *** Click PowerofAttroney ***
+[INFO ] 2022-12-07 20:09:13.372 [main] RWC003 - *** Entering the Emailid ***
+[INFO ] 2022-12-07 20:09:13.768 [main] RWC003 - *** Selecting  the Fleet Type ***
+[INFO ] 2022-12-07 20:09:14.125 [main] RWC003 - *** Selectng  the Commondity Class ***
+[INFO ] 2022-12-07 20:09:14.525 [main] RWC003 - *** Selecting the IRPRequirementForm ***
+[INFO ] 2022-12-07 20:09:14.849 [main] RWC003 - *** Selecting StatementofUnderstanding ***
+[INFO ] 2022-12-07 20:09:15.212 [main] RWC003 - *** Selecting InstallmentAgreement ***
+[INFO ] 2022-12-07 20:09:15.540 [main] RWC003 - *** Selecting PowerOfAttroney ***
+[INFO ] 2022-12-07 20:09:15.830 [main] RWC003 - *** Selecting the IRPRequirementForm ***
+[INFO ] 2022-12-07 20:09:16.114 [main] RWC003 - *** Selecting StatementofUnderstanding ***
+[INFO ] 2022-12-07 20:09:16.397 [main] RWC003 - *** Selecting InstallmentAgreement ***
+[INFO ] 2022-12-07 20:09:16.696 [main] RWC003 - *** Selecting PowerOfAttroney ***
+[INFO ] 2022-12-07 20:09:17.099 [main] RWC003 - *** Selecting HVUTForm ***
+[INFO ] 2022-12-07 20:09:17.480 [main] RWC003 - *** Selecting PropertyTax ***
+[INFO ] 2022-12-07 20:09:18.960 [main] RWC003 - *** Enter Comments ***
+[INFO ] 2022-12-07 20:10:19.280 [main] RWC003 - [IRPFLT01 : [I] Renewal fleet has been generated., [I] MCE: IRP status successfully updated.]
+[INFO ] 2022-12-07 20:10:19.331 [main] RWC003 - Message in Distance ScreenIRPFLT01 : [I] Renewal fleet has been generated.
+[INFO ] 2022-12-07 20:10:19.636 [main] RWC003 - Message in Distance ScreenIRPFLT01 : [I] Renewal fleet has been generated.
+[INFO ] 2022-12-07 20:10:20.232 [main] RWC003 - *** Selecting yes or No of Reporting period Question***
+[INFO ] 2022-12-07 20:10:20.720 [main] RWC003 - *** Enter Comments ***
+[INFO ] 2022-12-07 20:10:31.864 [main] RWC003 - Weight Group headervaluesWEIGHT GROUP NO.
+[INFO ] 2022-12-07 20:10:31.864 [main] RWC003 - Weight Group RowDatavalues1
+[INFO ] 2022-12-07 20:10:31.926 [main] RWC003 - Weight Group headervaluesWEIGHT GROUP TYPE
+[INFO ] 2022-12-07 20:10:31.926 [main] RWC003 - Weight Group RowDatavaluesP - POWER UNIT
+[INFO ] 2022-12-07 20:10:32.021 [main] RWC003 - Weight Group headervaluesBASE JURISDICTION WEIGHT
+[INFO ] 2022-12-07 20:10:32.021 [main] RWC003 - Weight Group RowDatavalues80000
+[INFO ] 2022-12-07 20:10:32.097 [main] RWC003 - Weight Group headervaluesMAX GROSS WEIGHT
+[INFO ] 2022-12-07 20:10:32.097 [main] RWC003 - Weight Group RowDatavalues80000
+[INFO ] 2022-12-07 20:10:32.161 [main] RWC003 - Weight Group headervalues
+[INFO ] 2022-12-07 20:10:32.161 [main] RWC003 - Weight Group RowDatavalues
+[INFO ] 2022-12-07 20:10:32.243 [main] RWC003 - Weight Group headervaluesWEIGHT GROUP NO.
+[INFO ] 2022-12-07 20:10:32.243 [main] RWC003 - Weight Group RowDatavalues2
+[INFO ] 2022-12-07 20:10:32.322 [main] RWC003 - Weight Group headervaluesWEIGHT GROUP TYPE
+[INFO ] 2022-12-07 20:10:32.322 [main] RWC003 - Weight Group RowDatavaluesP - POWER UNIT
+[INFO ] 2022-12-07 20:10:32.381 [main] RWC003 - Weight Group headervaluesBASE JURISDICTION WEIGHT
+[INFO ] 2022-12-07 20:10:32.381 [main] RWC003 - Weight Group RowDatavalues66000
+[INFO ] 2022-12-07 20:10:32.445 [main] RWC003 - Weight Group headervaluesMAX GROSS WEIGHT
+[INFO ] 2022-12-07 20:10:32.445 [main] RWC003 - Weight Group RowDatavalues66000
+[INFO ] 2022-12-07 20:10:32.538 [main] RWC003 - Weight Group headervaluesJUR WITH DIFFERENT WEIGHTS
+[INFO ] 2022-12-07 20:10:32.538 [main] RWC003 - Weight Group RowDatavalues
+[INFO ] 2022-12-07 20:10:32.655 [main] RWC003 - [IRPMLG13 : [I] Renewal Distance has been generated.]
+[INFO ] 2022-12-07 20:10:32.695 [main] RWC003 - Message in Weight Group ScreenIRPMLG13 : [I] Renewal Distance has been generated.
+[INFO ] 2022-12-07 20:10:35.221 [main] RWC003 - *** Click AddweightGroup ***
+[INFO ] 2022-12-07 20:10:36.699 [main] RWC003 - *** Select WeightGroupType ***
+[INFO ] 2022-12-07 20:10:37.071 [main] RWC003 - *** Enter WeightGroup No ***
+[INFO ] 2022-12-07 20:10:37.413 [main] RWC003 - *** Select MaxGross Weight ***
+[INFO ] 2022-12-07 20:10:48.558 [main] RWC003 - *** Click AddweightGroup ***
+[INFO ] 2022-12-07 20:10:49.537 [main] RWC003 - *** Select WeightGroupType ***
+[INFO ] 2022-12-07 20:10:50.025 [main] RWC003 - *** Enter WeightGroup No ***
+[INFO ] 2022-12-07 20:10:50.420 [main] RWC003 - *** Select MaxGross Weight ***
+[INFO ] 2022-12-07 20:11:12.103 [main] RWC003 - []
+[INFO ] 2022-12-07 20:11:17.498 [main] RWC003 - []
+[INFO ] 2022-12-07 20:11:24.031 [main] RWC003 - []
+[INFO ] 2022-12-07 20:11:30.764 [main] RWC003 - []
+[INFO ] 2022-12-07 20:11:45.274 [main] RWC003 - []
+[INFO ] 2022-12-07 20:11:45.442 [main] RWC003 - *** Billing-Click TVR ***
+[INFO ] 2022-12-07 20:11:45.931 [main] RWC003 - ***Billing- Installment Plan Check Box Status ***false
+[INFO ] 2022-12-07 20:11:46.049 [main] RWC003 - *** Billing-Click Installement Plan ***
+[INFO ] 2022-12-07 20:11:46.388 [main] RWC003 - *** Billing-Select Electronic DeliveryType ***
+[INFO ] 2022-12-07 20:11:57.185 [main] RWC003 - *** Billing-Installment Plan Check Box Status ***true
+[INFO ] 2022-12-07 20:12:16.338 [main] RWC003 - fileLocationD:\celtic_framework_enhance-main\src\test\resources\downloads\RWC003\
+[INFO ] 2022-12-07 20:12:39.597 [main] RWC003 - [GEN4138 : [E] Failed to send the Email to test@celtic.com., GEN24 : [I] Invoice report generated successfully.]
+[INFO ] 2022-12-07 20:12:39.820 [main] RWC003 - Message in Payment ScreenGEN24 : [I] Invoice report generated successfully.
+[INFO ] 2022-12-07 20:12:40.186 [main] RWC003 - Message in Payment Screennull
+[INFO ] 2022-12-07 20:12:40.550 [main] RWC003 - Message in Payment Screennull
+[INFO ] 2022-12-07 20:12:40.885 [main] RWC003 - ***Payment Screen-Select Delivery type***
+[INFO ] 2022-12-07 20:12:51.227 [main] RWC003 - []
+[INFO ] 2022-12-07 20:12:56.489 [main] RWC003 - ***Payment Screen-Click Pay Now**
+[INFO ] 2022-12-07 20:12:59.521 [main] RWC003 - []
+[INFO ] 2022-12-07 20:13:05.868 [main] RWC003 - no.of rows present is:1
+[INFO ] 2022-12-07 20:13:07.821 [main] RWC003 - ***Payment Screen-Payment Type***
+[INFO ] 2022-12-07 20:13:08.349 [main] RWC003 - ***Payment Screen-Payment Number based on Payment Type***
+[INFO ] 2022-12-07 20:13:08.554 [main] RWC003 - totalAmount is 2911.65
+[INFO ] 2022-12-07 20:13:08.764 [main] RWC003 - ***PPayment Screen-ayment Amount based on Payment Type***
+[INFO ] 2022-12-07 20:13:08.957 [main] RWC003 - no.of rows present is:2
+[INFO ] 2022-12-07 20:13:09.083 [main] RWC003 - ***Payment Screen-Payment Type***
+[INFO ] 2022-12-07 20:13:09.515 [main] RWC003 - ***Payment Screen-Payment Number based on Payment Type***
+[INFO ] 2022-12-07 20:13:09.731 [main] RWC003 - totalAmount is 2911.65
+[INFO ] 2022-12-07 20:13:09.826 [main] RWC003 - Payment Screen-Remaining balance is:1455.82
+[INFO ] 2022-12-07 20:13:10.145 [main] RWC003 - ***PPayment Screen-ayment Amount based on Payment Type***
+[INFO ] 2022-12-07 20:13:10.527 [main] RWC003 - ***Payment Screen-Enter Payment type and amount***
+[INFO ] 2022-12-07 20:13:18.883 [main] RWC003 - [IRPBILL89 : [E] All the required documents are not collected at Fleet Level., GEN1306 : [I] Credentials requested: 2, Credentials successful: 0, Credentials failed: 2. [Account No.:21744, Fleet No.:001, Fleet Exp. Year:2023, Fleet Exp. Month:03, Supp. No.:000], GEN24 : [I] Payment Receipt generated successfully.]
+[INFO ] 2022-12-07 20:13:25.073 [main] RWC003 - fileLocationD:\celtic_framework_enhance-main\src\test\resources\downloads\RWC003\
+[INFO ] 2022-12-07 20:13:38.811 [main] RWC003 - Message in Payment Screen null
+[INFO ] 2022-12-07 20:13:39.365 [main] RWC003 - Message in Payment Screen null
+[INFO ] 2022-12-07 20:13:47.927 [main] RWC003 - Supplement Documents- Click on Supplement Documents
+[INFO ] 2022-12-07 20:13:48.951 [main] RWC003 - Supplement Documents- Enter Account Number
+[INFO ] 2022-12-07 20:13:49.372 [main] RWC003 - Supplement Documents- Enter Fleet Number
+[INFO ] 2022-12-07 20:13:49.766 [main] RWC003 - Supplement Documents- Enter Fleet Year
+[INFO ] 2022-12-07 20:13:52.494 [main] RWC003 - Supplement Documents- Select IRP Requirements
+[INFO ] 2022-12-07 20:13:52.905 [main] RWC003 - Supplement Documents- Select Staement Documents
+[INFO ] 2022-12-07 20:13:53.271 [main] RWC003 - Supplement Documents- Select Installment Documents
+[INFO ] 2022-12-07 20:14:00.019 [main] RWC003 - [IRPDOCT22 : [I] Documents changes were updated successfully., GEN1306 : [I] Credentials requested: 2, Credentials successful: 2, Credentials failed: 0. [Account No.:21744, Fleet No.:001, Fleet Exp. Year:2023, Fleet Exp. Month:03, Supp. No.:000]]
+[INFO ] 2022-12-07 20:14:00.296 [main] RWC003 - Installment Payment is required to do
+[INFO ] 2022-12-07 20:14:07.501 [main] RWC003 - *** Installment Payment Screen-Click on Installment Payment ***
+[INFO ] 2022-12-07 20:14:08.287 [main] RWC003 - *** Installment Payment Screen-Enter Account Number ***
+[INFO ] 2022-12-07 20:14:08.694 [main] RWC003 - *** Installment Payment Screen-Enter Fleet Number ***
+[INFO ] 2022-12-07 20:14:09.156 [main] RWC003 - *** Installment Payment Screen-Enter Fleet Year ***
+[INFO ] 2022-12-07 20:14:33.255 [main] RWC003 - no.of rows present is:1
+[INFO ] 2022-12-07 20:14:34.091 [main] RWC003 - ***Installment Payment-Payment Type***
+[INFO ] 2022-12-07 20:14:34.635 [main] RWC003 - ***Installment Payment-Payment Number based on Payment Type***
+[INFO ] 2022-12-07 20:14:34.819 [main] RWC003 - Installment Payment-totalAmount is 241.11
+[INFO ] 2022-12-07 20:14:35.023 [main] RWC003 - ***Installment Payment-Payment Amount based on Payment Type***
+[INFO ] 2022-12-07 20:14:35.228 [main] RWC003 - no.of rows present is:2
+[INFO ] 2022-12-07 20:14:35.382 [main] RWC003 - ***Installment Payment-Payment Type***
+[INFO ] 2022-12-07 20:14:35.814 [main] RWC003 - ***Installment Payment-Payment Number based on Payment Type***
+[INFO ] 2022-12-07 20:14:36.063 [main] RWC003 - Installment Payment-totalAmount is 241.11
+[INFO ] 2022-12-07 20:14:36.168 [main] RWC003 - Installment Payment-Remaining balance is:120.55
+[INFO ] 2022-12-07 20:14:36.470 [main] RWC003 - ***Installment Payment-Payment Amount based on Payment Type***
+[INFO ] 2022-12-07 20:14:36.824 [main] RWC003 - ***Installment Payment-Enter Payment type and amount***
+[INFO ] 2022-12-07 20:14:44.778 [main] RWC003 - Installment Payment-Message in Installment Payment Screen null
+[INFO ] 2022-12-07 20:14:45.283 [main] RWC003 - Installment Payment-Message in Installment Payment Screen null
+[INFO ] 2022-12-07 20:14:51.711 [main] RWC003 - Installment Payment-fileLocationD:\celtic_framework_enhance-main\src\test\resources\downloads\RWC003\
+[INFO ] 2022-12-07 20:15:05.363 [main] RWC003 - FleetEnquiry-Click on Fleet Enquiry
+[INFO ] 2022-12-07 20:15:07.690 [main] RWC003 - FleetEnquiry-Enter Account Number
+[INFO ] 2022-12-07 20:15:07.917 [main] RWC003 - FleetEnquiry-Enter Account Number
+[INFO ] 2022-12-07 20:15:11.148 [main] RWC003 - SupplementEnquiry-Click on Supplement Enquiry
+[INFO ] 2022-12-07 20:15:15.605 [main] RWC003 - SupplementEnquiry-Enter Account Number
+[INFO ] 2022-12-07 20:15:15.801 [main] RWC003 - SupplementEnquiry-Enter Account Number
+[INFO ] 2022-12-07 20:15:19.747 [main] RWC003 - Vehicle Enquiry-Click on Vehicle Enquiry
+[INFO ] 2022-12-07 20:15:21.549 [main] RWC003 - Vehicle Enquiry-Enter Account Number
+[INFO ] 2022-12-07 20:15:21.789 [main] RWC003 - Vehicle-Enter Expiry Year
+[INFO ] 2022-12-07 20:15:26.753 [main] RWC003 - SupplementEnquiry-Click on Supplement Enquiry
+[INFO ] 2022-12-07 20:15:28.704 [main] RWC003 - SupplementEnquiry-Enter Account Number
+[INFO ] 2022-12-07 20:15:28.920 [main] RWC003 - SupplementEnquiry-Enter Account Number

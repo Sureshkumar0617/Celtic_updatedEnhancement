@@ -1,0 +1,11 @@
+[INFO ] 2022-12-07 21:05:44.900 [main] RWC002 - ****************************** Login to the application  *****************************************
+[INFO ] 2022-12-07 21:05:45.511 [main] RWC002 - *** Enter Username ***
+[INFO ] 2022-12-07 21:05:45.994 [main] RWC002 - *** Enter Password ***
+[INFO ] 2022-12-07 21:05:50.029 [main] RWC002 - *** Click Login ***
+[INFO ] 2022-12-07 21:07:02.047 [main] RWC002 - *** Click IRP ***
+[INFO ] 2022-12-07 21:07:02.422 [main] RWC002 - *** Click Fleet More ***
+[INFO ] 2022-12-07 21:07:05.818 [main] RWC002 - *** Click Fleet Reinstatement ***
+[INFO ] 2022-12-07 21:07:06.419 [main] RWC002 - *** Enter Account Number ***
+[INFO ] 2022-12-07 21:07:07.136 [main] RWC002 - *** Enter Last Inactive Days ***
+[INFO ] 2022-12-07 21:07:12.422 [main] RWC002 - *** Validating the information Message ***
+[INFO ] 2022-12-07 21:07:12.657 [main] RWC002 - [IRPSUPP72 : [E] Inactive Period must be at least 18 months.]

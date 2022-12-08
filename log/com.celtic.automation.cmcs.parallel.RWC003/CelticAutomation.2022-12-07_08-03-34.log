@@ -1,0 +1,10 @@
+[INFO ] 2022-12-07 20:04:00.444 [main] RWC003 - ****************************** Login to the application  *****************************************
+[INFO ] 2022-12-07 20:04:00.999 [main] RWC003 - *** Enter Username ***
+[INFO ] 2022-12-07 20:04:01.469 [main] RWC003 - *** Enter Password ***
+[INFO ] 2022-12-07 20:04:03.990 [main] RWC003 - *** Click Login ***
+[INFO ] 2022-12-07 20:05:06.915 [main] RWC003 - *** Click IRP ***
+[INFO ] 2022-12-07 20:05:08.739 [main] RWC003 - *** Click RenewFleet ***
+[INFO ] 2022-12-07 20:05:09.510 [main] RWC003 - *** Enter Account Number ***
+[INFO ] 2022-12-07 20:05:09.959 [main] RWC003 - *** Enter FleetNo ***
+[INFO ] 2022-12-07 20:05:10.425 [main] RWC003 - *** Click FleetYear ***
+[INFO ] 2022-12-07 20:05:14.108 [main] RWC003 - [IRPSUPP13 : [E] You cannot do this supplement because next year's renewal/reinstatement has started.]
